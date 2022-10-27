@@ -1,0 +1,31 @@
+
+body{
+    background:dimgrey;
+    text-align: justify;
+}
+
+#title{
+    color:rgb(41, 42, 43);
+    font-style: unset;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+    background-color:gold;
+    height: 60px;
+    border-style:outset;
+    
+}
+
+.fundo{
+    color: rgb(19, 11, 2);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(248, 252, 252);
+    margin-left: 200px ;
+    margin-right: 200px;
+    padding: 10px;
+    border: 2px solid black;
+    
+}
+
+.lista{
+    margin-left: 200px;
+}
